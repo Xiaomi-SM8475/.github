@@ -3,10 +3,10 @@
     <source
       width="128px"
       media="(prefers-color-scheme: dark)"
-      srcset="https://avatars.githubusercontent.com/u/132991658?s=200&v=4"
+      srcset="https://raw.githubusercontent.com/Xiaomi-SM8475/.github/main/8pgen1.svg"
     >
     <img 
-      src="https://avatars.githubusercontent.com/u/132991658?s=200&v=4"
+      src="https://raw.githubusercontent.com/Xiaomi-SM8475/.github/main/8pgen1.svg"
     >
   </picture>
 </p>
@@ -18,6 +18,12 @@
 <p align=center>
 <a href="https://www.mi.com/xiaomi-pad-6-pro"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 <a href="https://www.mi.com/xiaomi-pad-6-max"><img src="https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+</p>
+
+<h2 align=center>Support Group</h2>
+
+<p align=center>
+<a href="https://t.me/XiaomiPad6ProOfficial"><img src="https://img.shields.io/badge/%40XiaomiPad6ProOfficial-0088cc?style=flat-square&logo=telegram&logoColor=ffffff"></a>
 </p>
 
 <h2 align=center>Contributors</h2>
